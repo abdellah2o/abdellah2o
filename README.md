@@ -3,11 +3,11 @@
 
 Je m'appelle Abdellah, étudiant en informatique. Je m'intéresse dans mon temps libre au développement de jeux vidéos et à l'UI design. 🖥
 
----
+--
 
 ### Technologies
 
----
+-
 
 <p>
   <img width="50" src="./icons/bash.svg" alt="Bash" title="Bash"/>
