@@ -16,7 +16,6 @@ Je m'appelle Abdellah, étudiant en informatique. Je m'intéresse dans mon temps
   <img width="50" src="./icons/php.svg" alt="PHP" title="PHP"/>
   <img width="50" src="./icons/tailwind.svg" alt="Tailwind CSS" title="Tailwind CSS"/>
   <img width="50" src="./icons/bootstrap.svg" alt="Bootstrap" title="Bootstrap"/>
-  <img width="50" src="./icons/webstorm.svg" alt="WebStorm" title="WebStorm"/>
   <img width="50" src="./icons/html.svg" alt="HTML" title="HTML"/>
   <img width="50" src="./icons/css.svg" alt="CSS" title="CSS"/>
 </div>
@@ -26,7 +25,6 @@ Je m'appelle Abdellah, étudiant en informatique. Je m'intéresse dans mon temps
 <div>
   <img width="50" src="./icons/python.svg" alt="Python" title="Python"/>
   <img width="50" src="./icons/flask.svg" alt="Flask" title="Flask"/>
-  <img width="50" src="./icons/pycharm.svg" alt="PyCharm" title="PyCharm"/>
 </div>
 
 #### Java
@@ -36,7 +34,6 @@ Je m'appelle Abdellah, étudiant en informatique. Je m'intéresse dans mon temps
   <img width="50" src="./icons/javafx.svg" alt="JavaFX" title="JavaFX"/>
   <img width="50" src="./icons/junit.svg" alt="JUnit" title="JUnit"/>
   <img width="50" src="./icons/maven.svg" alt="Maven" title="Maven"/>
-  <img width="50" src="./icons/intellij.svg" alt="IntelliJ" title="IntelliJ"/>
 </div>
 
 #### Base de données
@@ -75,6 +72,15 @@ Je m'appelle Abdellah, étudiant en informatique. Je m'intéresse dans mon temps
 <div>
   <img width="50" src="./icons/linux.svg" alt="Linux" title="Linux"/>
   <img width="50" src="./icons/windows.svg" alt="Windows" title="Windows"/>
+</div>
+
+#### IDEs
+
+<div>
+  <img width="50" src="./icons/vscode.svg" alt="Visual Studio Code" title="Visual Studio Code"/>
+  <img width="50" src="./icons/webstorm.svg" alt="WebStorm" title="WebStorm"/>
+  <img width="50" src="./icons/pycharm.svg" alt="PyCharm" title="PyCharm"/>
+  <img width="50" src="./icons/intellij.svg" alt="IntelliJ" title="IntelliJ"/>
 </div>
 
 #### Langage appris à l'IUT dont je doute qu'il me soit utile
