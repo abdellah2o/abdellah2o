@@ -67,22 +67,6 @@ Je m'appelle Abdellah, étudiant en informatique. Je m'intéresse dans mon temps
   <img width="50" src="./icons/powershell.svg" alt="PowerShell" title="PowerShell"/>
 </div>
 
-#### Systèmes d'exploitation
-
-<div>
-  <img width="50" src="./icons/linux.svg" alt="Linux" title="Linux"/>
-  <img width="50" src="./icons/windows.svg" alt="Windows" title="Windows"/>
-</div>
-
-#### IDEs
-
-<div>
-  <img width="50" src="./icons/vscode.svg" alt="Visual Studio Code" title="Visual Studio Code"/>
-  <img width="50" src="./icons/webstorm.svg" alt="WebStorm" title="WebStorm"/>
-  <img width="50" src="./icons/pycharm.svg" alt="PyCharm" title="PyCharm"/>
-  <img width="50" src="./icons/intellij.svg" alt="IntelliJ" title="IntelliJ"/>
-</div>
-
 #### Langage appris à l'IUT dont je doute qu'il me soit utile
 
 <div>
