@@ -1,11 +1,11 @@
 # Bonjour
 
 
-Je m'appelle Abdellah, étudiant en informatique. Je m'intéresse dans mon temps libre au développement de jeux vidéos et à l'UI design. 🖥
+Je m'appelle Abdellah, étudiant en informatique. Je m'intéresse dans mon temps libre au développement de jeux vidéos et à l'UI design.
 
 ---
 
-### Technologies
+### Technologies auxquelles je touche
 
 #### Web
 
@@ -15,7 +15,6 @@ Je m'appelle Abdellah, étudiant en informatique. Je m'intéresse dans mon temps
   <img width="50" src="./icons/react.svg" alt="React" title="React"/>
   <img width="50" src="./icons/php.svg" alt="PHP" title="PHP"/>
   <img width="50" src="./icons/tailwind.svg" alt="Tailwind CSS" title="Tailwind CSS"/>
-  <img width="50" src="./icons/bootstrap.svg" alt="Bootstrap" title="Bootstrap"/>
   <img width="50" src="./icons/html.svg" alt="HTML" title="HTML"/>
   <img width="50" src="./icons/css.svg" alt="CSS" title="CSS"/>
 </div>
@@ -67,7 +66,7 @@ Je m'appelle Abdellah, étudiant en informatique. Je m'intéresse dans mon temps
   <img width="50" src="./icons/powershell.svg" alt="PowerShell" title="PowerShell"/>
 </div>
 
-#### Langage appris à l'IUT dont je doute qu'il me soit utile
+#### free le malloc
 
 <div>
   <img width="50" src="./icons/c.svg" alt="C" title="C"/>
