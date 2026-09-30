@@ -11,7 +11,7 @@ Je m'appelle Abdellah, étudiant en informatique. Je m'intéresse dans mon temps
 
 <div>
   <img width="50" src="./icons/php.svg" alt="PHP" title="PHP"/>
-  <img width="50" src="./icons/nodejs.svg" alt="JavaScript" title="JavaScript"/>
+  <img width="50" src="./icons/nodejs.svg" alt="Node.js" title="Node.js"/>
   <img width="50" src="./icons/javascript.svg" alt="JavaScript" title="JavaScript"/>
   <img width="50" src="./icons/typescript.svg" alt="TypeScript" title="TypeScript"/>
   <img width="50" src="./icons/flask.svg" alt="Flask" title="Flask"/>
