@@ -15,6 +15,7 @@ Je m'appelle Abdellah, étudiant en informatique. Je m'intéresse dans mon temps
   <img width="50" src="./icons/javascript.svg" alt="JavaScript" title="JavaScript"/>
   <img width="50" src="./icons/typescript.svg" alt="TypeScript" title="TypeScript"/>
   <img width="50" src="./icons/flask.svg" alt="Flask" title="Flask"/>
+  <img width="50" src="./icons/express.svg" alt="Express.js" title="Express.js"/>
 </div>
 
 #### Front-end
@@ -42,6 +43,8 @@ Je m'appelle Abdellah, étudiant en informatique. Je m'intéresse dans mon temps
   <img width="50" src="./icons/mysql.svg" alt="MySQL" title="MySQL"/>
   <img width="50" src="./icons/postgresql.svg" alt="PostgreSQL" title="PostgreSQL"/>
   <img width="50" src="./icons/mongodb.svg" alt="MongoDB" title="MongoDB"/>
+  <img width="50" src="./icons/sqlite.svg" alt="SQLite" title="SQLite"/>
+  <img width="50" src="./icons/neo4j.svg" alt="Neo4j" title="Neo4j"/>
 </div>
 
 #### Gestion de projet
@@ -53,6 +56,7 @@ Je m'appelle Abdellah, étudiant en informatique. Je m'intéresse dans mon temps
   <img width="50" src="./icons/maven.svg" alt="Maven" title="Maven"/>
   <img width="50" src="./icons/trello.svg" alt="Trello" title="Trello"/>
   <img width="50" src="./icons/uml.svg" alt="UML" title="UML"/>
+  <img width="50" src="./icons/unity.svg" alt="Unity" title="Unity"/>
 </div>
 
 #### Shell
@@ -60,10 +64,4 @@ Je m'appelle Abdellah, étudiant en informatique. Je m'intéresse dans mon temps
 <div>
   <img width="50" src="./icons/bash.svg" alt="Bash" title="Bash"/>
   <img width="50" src="./icons/powershell.svg" alt="PowerShell" title="PowerShell"/>
-</div>
-
-#### Jeux-vidéos
-
-<div>
-  <img width="50" src="./icons/unity.svg" alt="Unity" title="Unity"/>
 </div>
